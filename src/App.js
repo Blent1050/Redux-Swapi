@@ -8,5 +8,4 @@ class App extends Component {
     return <CharacterListView />;
   }
 }
-//init
 export default App;
